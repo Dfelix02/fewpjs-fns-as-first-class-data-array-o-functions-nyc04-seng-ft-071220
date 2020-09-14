@@ -24,7 +24,7 @@ function walkHome (dogName, dogBreed) {
   return `Throw the frisbee for ${dogName} the ${dogBreed}`;
 }
 
-function walkHome (dogName, dogBreed) {
+function unleashDog (dogName, dogBreed) {
   console.log(`Throw the frisbee for ${dogName} the ${dogBreed}`);
   return `Throw the frisbee for ${dogName} the ${dogBreed}`;
 }
