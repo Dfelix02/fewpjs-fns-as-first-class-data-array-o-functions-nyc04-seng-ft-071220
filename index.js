@@ -31,7 +31,7 @@ function unleashDog (dogName, dogBreed) {
 
 var routine = [];
 
-function unleashDog (dogName, dogBreed) {
+function exerciseDog (dogName, dogBreed) {
   console.log(`Unleash ${dogName} the ${dogBreed}`);
   return `Unleash ${dogName} the ${dogBreed}`;
 }
