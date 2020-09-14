@@ -5,5 +5,5 @@
 
 function wakeDog (dogName = "Xerox", dogBreed = "Border Collie") {
   console.Log(`Wake ${dogName} the ${dogBreed}`);
-  return console.log(`Wake ${dogName} the ${dogBreed}`);
+  return`Wake ${dogName} the ${dogBreed}`;
 }
