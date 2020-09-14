@@ -33,5 +33,5 @@ var routine = [wakeDog,leashDog,walkToPark,throwFrisbee,walkHome,unleashDog];
 
 function exerciseDog (dogName, dogBreed) {
   // return routine.forEach(dogName,dogBreed);
-  return routine.map(fn => fn(dog, breed))
+  return routine.map(fn => fn(dogName, dogBreed))
 }
