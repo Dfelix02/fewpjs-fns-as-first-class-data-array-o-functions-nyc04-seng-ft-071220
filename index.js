@@ -4,6 +4,6 @@
 // }
 
 function wakeDog (dogName = "Xerox", dogBreed = "Border Collie") {
-  consoLe.Log(`Wake ${dogName} the ${dogBreed}`);
+  console.log(`Wake ${dogName} the ${dogBreed}`);
   return`Wake ${dogName} the ${dogBreed}`;
 }
