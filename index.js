@@ -18,3 +18,8 @@ function throwFrisbee (dogName, dogBreed) {
   console.log(`Throw the frisbee for ${dogName} the ${dogBreed}`);
   return `Throw the frisbee for ${dogName} the ${dogBreed}`;
 }
+
+function throwFrisbee (dogName, dogBreed) {
+  console.log(`Throw the frisbee for ${dogName} the ${dogBreed}`);
+  return `Throw the frisbee for ${dogName} the ${dogBreed}`;
+}
